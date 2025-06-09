@@ -29,7 +29,7 @@ A file-based **version control system** I built from scratch using Node.js and E
 - 🎬 **Live Streaming App:** Built using React, RTMP, HLS, WebRTC. Supports adaptive bitrate for low-bandwidth conditions.
 - 📸 **Blog Platform:** MERN stack blog app with debouncing, auto-save, JWT auth, and draft/publish features.
 - 🧠 **ML Projects:** SVD Foreground Extractor
-- 👀 **AI Image Generator App:** MERN stack-based AI image generation platform leveraging the OpenAI API and Cloudinary API 
+- 👀 **AI Image Generator App:** MERN stack-based AI image generation platform leveraging the stability.ai API and Cloudinary API 
 ---
 
 ## 👑 Leadership & Vibes
